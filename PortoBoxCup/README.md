@@ -28,8 +28,7 @@ This project was developed to centralize all event information, enable online re
 <img width="1706" height="587" alt="image" src="https://github.com/user-attachments/assets/266c3d22-39f9-4a30-b06e-41992c6693f3" />
 <img width="1699" height="1034" alt="image" src="https://github.com/user-attachments/assets/f732c527-3e17-4d4a-ab0a-9d7a38244656" />
 <img width="1738" height="972" alt="image" src="https://github.com/user-attachments/assets/e2727ca0-b4cb-4d73-bab7-688568c87369" />
-<img width="1708" height="878" alt="image" src="https://github.com/user-attachments/assets/a4cdc6de-ee80-4d41-bea9-afff1abc0e5d" />
-
+<img width="1708" height="906" alt="image" src="https://github.com/user-attachments/assets/5dd98e0c-efb2-446e-94e1-dd044ed11c40" />
 
 
 
