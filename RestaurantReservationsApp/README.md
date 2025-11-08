@@ -6,10 +6,11 @@ Built with React and Supabase, it allows users to create, cancel, and view reser
 
 ## Features
 - Create and cancel reservations with real-time updates.
-- Search bar to quickly find reservations.
+- Ability to set the restaurant full for a specific time of a specific day
+- Search bar and FIlters to quickly find reservations.
 - “Past Reservations” section that includes both expired and canceled bookings.
 - Custom alert components replacing native browser alerts for better UX.
-- PIN access system for added security.
+- PIN access,Honeypot,Token login with login attempts for added security.
 - Role-based permissions:
   - Manager: full access.
   - Employee: restricted from canceling reservations.
@@ -18,14 +19,12 @@ Built with React and Supabase, it allows users to create, cancel, and view reser
 
 ## Technologies Used
 - **Frontend:** React
-- **Backend & Database:** Supabase
-- **Styling:** CSS Modules / Classnames
+- **Backend & Database:** Supabase & Node.js
+- **Styling:** CSS Modules / Tailwind
 - **State Management:** React Hooks
 - **Additional:** Custom components for alerts and modals
 
 ## Planned Features
-- Filtering options.
-- More granular user roles and permissions.
 - Integration with external calendar apps.
 
 ## Screenshots
