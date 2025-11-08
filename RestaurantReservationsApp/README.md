@@ -28,12 +28,11 @@ Built with React and Supabase, it allows users to create, cancel, and view reser
 - Integration with external calendar apps.
 
 ## Screenshots
-<img width="594" height="1036" alt="image" src="https://github.com/user-attachments/assets/40ad2bf7-350e-40ca-8aa6-8944e460f6ca" />
-<img width="578" height="1030" alt="image" src="https://github.com/user-attachments/assets/12a3b9f7-6150-494b-851e-e363c138c13e" />
-<img width="586" height="1031" alt="image" src="https://github.com/user-attachments/assets/82e1026d-d104-4e4a-bcbc-f47afcb8a453" />
-<img width="592" height="1039" alt="image" src="https://github.com/user-attachments/assets/2a71f54a-b889-42eb-ba58-c2b5ebc7a199" />
-<img width="586" height="1031" alt="image" src="https://github.com/user-attachments/assets/3ff1e03f-cf98-4be1-aa96-05e20d82ab4a" />
-
+<img width="398" height="994" alt="image" src="https://github.com/user-attachments/assets/9ff86cbf-d611-4e83-b477-fd7cfee68de1" />
+<img width="397" height="992" alt="image" src="https://github.com/user-attachments/assets/727db7d4-8a87-450f-9095-793a1e13a487" />
+<img width="391" height="989" alt="image" src="https://github.com/user-attachments/assets/48707a50-3e57-40bf-b31e-04f6e9ac40c5" />
+<img width="394" height="994" alt="image" src="https://github.com/user-attachments/assets/e6f23ead-eb57-41d1-af10-55d79123cd8b" />
+<img width="393" height="991" alt="image" src="https://github.com/user-attachments/assets/7e2b3fef-2a9f-49a2-8ad5-9298de6b0ab0" />
 
 ## Author
 Developed by [Bebaz](https://github.com/Bebaz0)  
